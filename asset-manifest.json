@@ -1,7 +1,7 @@
 {
   "main.css": "/brendamorales/static/css/main.15d57720.chunk.css",
-  "main.js": "/brendamorales/static/js/main.253a3e23.chunk.js",
-  "main.js.map": "/brendamorales/static/js/main.253a3e23.chunk.js.map",
+  "main.js": "/brendamorales/static/js/main.12984c6d.chunk.js",
+  "main.js.map": "/brendamorales/static/js/main.12984c6d.chunk.js.map",
   "static/css/1.e808768c.chunk.css": "/brendamorales/static/css/1.e808768c.chunk.css",
   "static/js/1.afce5013.chunk.js": "/brendamorales/static/js/1.afce5013.chunk.js",
   "static/js/1.afce5013.chunk.js.map": "/brendamorales/static/js/1.afce5013.chunk.js.map",
@@ -17,6 +17,6 @@
   "static/css/main.15d57720.chunk.css.map": "/brendamorales/static/css/main.15d57720.chunk.css.map",
   "static/css/1.e808768c.chunk.css.map": "/brendamorales/static/css/1.e808768c.chunk.css.map",
   "index.html": "/brendamorales/index.html",
-  "precache-manifest.6acb07bb7a08a5437807beba7c093946.js": "/brendamorales/precache-manifest.6acb07bb7a08a5437807beba7c093946.js",
+  "precache-manifest.c21c020af78f7bed141146bffa32e2a4.js": "/brendamorales/precache-manifest.c21c020af78f7bed141146bffa32e2a4.js",
   "service-worker.js": "/brendamorales/service-worker.js"
 }

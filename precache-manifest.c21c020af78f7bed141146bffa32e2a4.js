@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Regular.30799efa.eot"
   },
   {
-    "revision": "253a3e2334e87109ae5b",
+    "revision": "12984c6db4ffb9bd5dfe",
     "url": "/brendamorales/static/css/main.15d57720.chunk.css"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Light.a990f611.eot"
   },
   {
-    "revision": "253a3e2334e87109ae5b",
-    "url": "/brendamorales/static/js/main.253a3e23.chunk.js"
+    "revision": "12984c6db4ffb9bd5dfe",
+    "url": "/brendamorales/static/js/main.12984c6d.chunk.js"
   },
   {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
@@ -120,35 +120,35 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
-    "revision": "dc81817def276b4f21395f7ea5e88dcd",
-    "url": "/brendamorales/static/media/Roboto-Bold.dc81817d.woff"
-  },
-  {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
     "url": "/brendamorales/static/media/Roboto-Medium.fc78759e.woff"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/brendamorales/static/media/Roboto-Light.46e48ce0.ttf"
+    "revision": "dc81817def276b4f21395f7ea5e88dcd",
+    "url": "/brendamorales/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/brendamorales/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/brendamorales/static/media/Roboto-Regular.df7b648c.ttf"
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/brendamorales/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
     "url": "/brendamorales/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/brendamorales/static/media/Roboto-Regular.df7b648c.ttf"
+  },
+  {
     "revision": "afce5013fefa63660fde",
     "url": "/brendamorales/static/css/1.e808768c.chunk.css"
   },
   {
-    "revision": "6790e18cf6951e01b2a7ecf2ee5a9cfd",
+    "revision": "0557d0c3dd1eca080c9ad134faaed996",
     "url": "/brendamorales/index.html"
   }
 ];
