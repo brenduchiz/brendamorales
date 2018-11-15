@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Regular.30799efa.eot"
   },
   {
-    "revision": "ee92ad7886944fecf303",
-    "url": "/brendamorales/static/css/main.71dd219d.chunk.css"
+    "revision": "910af979bcaf509dc120",
+    "url": "/brendamorales/static/css/main.25ab4e98.chunk.css"
   },
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Light.a990f611.eot"
   },
   {
-    "revision": "ee92ad7886944fecf303",
-    "url": "/brendamorales/static/js/main.ee92ad78.chunk.js"
+    "revision": "910af979bcaf509dc120",
+    "url": "/brendamorales/static/js/main.910af979.chunk.js"
   },
   {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
@@ -120,35 +120,35 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
-    "revision": "dc81817def276b4f21395f7ea5e88dcd",
-    "url": "/brendamorales/static/media/Roboto-Bold.dc81817d.woff"
-  },
-  {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
     "url": "/brendamorales/static/media/Roboto-Medium.fc78759e.woff"
   },
   {
-    "revision": "94998475f6aea65f558494802416c1cf",
-    "url": "/brendamorales/static/media/Roboto-Thin.94998475.ttf"
+    "revision": "dc81817def276b4f21395f7ea5e88dcd",
+    "url": "/brendamorales/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/brendamorales/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/brendamorales/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "94998475f6aea65f558494802416c1cf",
+    "url": "/brendamorales/static/media/Roboto-Thin.94998475.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/brendamorales/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/brendamorales/static/media/Roboto-Medium.894a2ede.ttf"
+  },
+  {
     "revision": "4eed25423990f952001b",
     "url": "/brendamorales/static/css/1.847e3d4f.chunk.css"
   },
   {
-    "revision": "a55e976d2669c655523bb149e2c48f99",
+    "revision": "16d28c785514716674742b1ef67fe230",
     "url": "/brendamorales/index.html"
   }
 ];
