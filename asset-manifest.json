@@ -1,10 +1,10 @@
 {
-  "main.css": "/brendamorales/static/css/main.70966823.chunk.css",
-  "main.js": "/brendamorales/static/js/main.168562fc.chunk.js",
-  "main.js.map": "/brendamorales/static/js/main.168562fc.chunk.js.map",
+  "main.css": "/brendamorales/static/css/main.71dd219d.chunk.css",
+  "main.js": "/brendamorales/static/js/main.99648176.chunk.js",
+  "main.js.map": "/brendamorales/static/js/main.99648176.chunk.js.map",
   "static/css/1.847e3d4f.chunk.css": "/brendamorales/static/css/1.847e3d4f.chunk.css",
-  "static/js/1.1e7d621c.chunk.js": "/brendamorales/static/js/1.1e7d621c.chunk.js",
-  "static/js/1.1e7d621c.chunk.js.map": "/brendamorales/static/js/1.1e7d621c.chunk.js.map",
+  "static/js/1.4eed2542.chunk.js": "/brendamorales/static/js/1.4eed2542.chunk.js",
+  "static/js/1.4eed2542.chunk.js.map": "/brendamorales/static/js/1.4eed2542.chunk.js.map",
   "runtime~main.js": "/brendamorales/static/js/runtime~main.99b7cf03.js",
   "runtime~main.js.map": "/brendamorales/static/js/runtime~main.99b7cf03.js.map",
   "static/media/mdb.css": "/brendamorales/static/media/Roboto-Regular.df7b648c.ttf",
@@ -14,9 +14,9 @@
   "static/media/Movie.png": "/brendamorales/static/media/Movie.5be01c57.png",
   "static/media/font-awesome.min.css": "/brendamorales/static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/space.png": "/brendamorales/static/media/space.fce024d2.png",
-  "static/css/main.70966823.chunk.css.map": "/brendamorales/static/css/main.70966823.chunk.css.map",
   "static/css/1.847e3d4f.chunk.css.map": "/brendamorales/static/css/1.847e3d4f.chunk.css.map",
+  "static/css/main.71dd219d.chunk.css.map": "/brendamorales/static/css/main.71dd219d.chunk.css.map",
   "index.html": "/brendamorales/index.html",
-  "precache-manifest.11e69ab12c71f279c46cbec1a59eddc3.js": "/brendamorales/precache-manifest.11e69ab12c71f279c46cbec1a59eddc3.js",
+  "precache-manifest.48fe557cedc23bdd2550cd7ef8102107.js": "/brendamorales/precache-manifest.48fe557cedc23bdd2550cd7ef8102107.js",
   "service-worker.js": "/brendamorales/service-worker.js"
 }
