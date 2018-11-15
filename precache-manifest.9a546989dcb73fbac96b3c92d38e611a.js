@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Regular.30799efa.eot"
   },
   {
-    "revision": "910af979bcaf509dc120",
+    "revision": "28d2b819595917c64d80",
     "url": "/brendamorales/static/css/main.25ab4e98.chunk.css"
   },
   {
-    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
-    "url": "/brendamorales/static/media/Roboto-Bold.e31fcf18.ttf"
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/brendamorales/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "4eed25423990f952001b",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/busy.5715447e.png"
   },
   {
-    "revision": "fce024d2a66a129691d24b10a6d763ad",
-    "url": "/brendamorales/static/media/space.fce024d2.png"
+    "revision": "930b71e69486864555f0cc4eb329c641",
+    "url": "/brendamorales/static/media/bren.930b71e6.jpg"
   },
   {
     "revision": "561e186b03ecad2c956ca105735ab72b",
@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Light.a990f611.eot"
   },
   {
-    "revision": "910af979bcaf509dc120",
-    "url": "/brendamorales/static/js/main.910af979.chunk.js"
+    "revision": "28d2b819595917c64d80",
+    "url": "/brendamorales/static/js/main.28d2b819.chunk.js"
   },
   {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
@@ -92,16 +92,16 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Thin.954bbdeb.woff2"
   },
   {
+    "revision": "2751ee43015f9884c3642f103b7f70c9",
+    "url": "/brendamorales/static/media/Roboto-Regular.2751ee43.woff2"
+  },
+  {
     "revision": "69f8a0617ac472f78e45841323a3df9e",
     "url": "/brendamorales/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
     "revision": "574fd0b50367f886d359e8264938fc37",
     "url": "/brendamorales/static/media/Roboto-Medium.574fd0b5.woff2"
-  },
-  {
-    "revision": "2751ee43015f9884c3642f103b7f70c9",
-    "url": "/brendamorales/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
@@ -116,39 +116,39 @@ self.__precacheManifest = [
     "url": "/brendamorales/static/media/Roboto-Light.3b813c2a.woff"
   },
   {
-    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
-    "url": "/brendamorales/static/media/Roboto-Regular.ba3dcd89.woff"
-  },
-  {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
     "url": "/brendamorales/static/media/Roboto-Medium.fc78759e.woff"
+  },
+  {
+    "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
+    "url": "/brendamorales/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
     "revision": "dc81817def276b4f21395f7ea5e88dcd",
     "url": "/brendamorales/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/brendamorales/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "94998475f6aea65f558494802416c1cf",
     "url": "/brendamorales/static/media/Roboto-Thin.94998475.ttf"
+  },
+  {
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/brendamorales/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/brendamorales/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/brendamorales/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
+    "url": "/brendamorales/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
     "revision": "4eed25423990f952001b",
     "url": "/brendamorales/static/css/1.847e3d4f.chunk.css"
   },
   {
-    "revision": "16d28c785514716674742b1ef67fe230",
+    "revision": "9e37ad1433446e104b46fa026cffcdae",
     "url": "/brendamorales/index.html"
   }
 ];
