@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/brendamorales/precache-manifest.8c7874176c43f52985fe8719ea1476be.js"
+  "/brendamorales/precache-manifest.fa24e3c304bf4e3873fff87252b54923.js"
 );
 
 workbox.clientsClaim();
