@@ -1,13 +1,13 @@
 {
   "main.css": "/brendamorales/static/css/main.25ab4e98.chunk.css",
-  "main.js": "/brendamorales/static/js/main.28d2b819.chunk.js",
-  "main.js.map": "/brendamorales/static/js/main.28d2b819.chunk.js.map",
+  "main.js": "/brendamorales/static/js/main.94826e50.chunk.js",
+  "main.js.map": "/brendamorales/static/js/main.94826e50.chunk.js.map",
   "static/css/1.847e3d4f.chunk.css": "/brendamorales/static/css/1.847e3d4f.chunk.css",
   "static/js/1.4eed2542.chunk.js": "/brendamorales/static/js/1.4eed2542.chunk.js",
   "static/js/1.4eed2542.chunk.js.map": "/brendamorales/static/js/1.4eed2542.chunk.js.map",
   "runtime~main.js": "/brendamorales/static/js/runtime~main.99b7cf03.js",
   "runtime~main.js.map": "/brendamorales/static/js/runtime~main.99b7cf03.js.map",
-  "static/media/mdb.css": "/brendamorales/static/media/Roboto-Medium.894a2ede.ttf",
+  "static/media/mdb.css": "/brendamorales/static/media/Roboto-Bold.e31fcf18.ttf",
   "static/media/busy.png": "/brendamorales/static/media/busy.5715447e.png",
   "static/media/red.png": "/brendamorales/static/media/red.561e186b.png",
   "static/media/data.png": "/brendamorales/static/media/data.61677e05.png",
@@ -17,6 +17,6 @@
   "static/css/main.25ab4e98.chunk.css.map": "/brendamorales/static/css/main.25ab4e98.chunk.css.map",
   "static/css/1.847e3d4f.chunk.css.map": "/brendamorales/static/css/1.847e3d4f.chunk.css.map",
   "index.html": "/brendamorales/index.html",
-  "precache-manifest.9a546989dcb73fbac96b3c92d38e611a.js": "/brendamorales/precache-manifest.9a546989dcb73fbac96b3c92d38e611a.js",
+  "precache-manifest.ac0001f970a56ee3e610a6de8a992d6a.js": "/brendamorales/precache-manifest.ac0001f970a56ee3e610a6de8a992d6a.js",
   "service-worker.js": "/brendamorales/service-worker.js"
 }
